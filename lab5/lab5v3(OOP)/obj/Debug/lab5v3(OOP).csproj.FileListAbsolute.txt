@@ -1,0 +1,8 @@
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\bin\Debug\lab5v3(OOP).exe.config
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\bin\Debug\lab5v3(OOP).exe
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\bin\Debug\lab5v3(OOP).pdb
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\obj\Debug\lab5v3(OOP).csproj.AssemblyReference.cache
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\obj\Debug\lab5v3(OOP).csproj.CoreCompileInputs.cache
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\obj\Debug\lab5v3(OOP).exe
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\obj\Debug\lab5v3(OOP).pdb
+D:\cod\Асд\lab5v3(OOP)\lab5v3(OOP)\obj\Debug\lab5v3(OOP).exe.config
