@@ -1,8 +1,0 @@
-D:\cod\ООП\lab3\lab3v1\lab3v1\bin\Debug\lab3v1.exe.config
-D:\cod\ООП\lab3\lab3v1\lab3v1\bin\Debug\lab3v1.exe
-D:\cod\ООП\lab3\lab3v1\lab3v1\bin\Debug\lab3v1.pdb
-D:\cod\ООП\lab3\lab3v1\lab3v1\obj\Debug\lab3v1.csproj.AssemblyReference.cache
-D:\cod\ООП\lab3\lab3v1\lab3v1\obj\Debug\lab3v1.csproj.CoreCompileInputs.cache
-D:\cod\ООП\lab3\lab3v1\lab3v1\obj\Debug\lab3v1.exe
-D:\cod\ООП\lab3\lab3v1\lab3v1\obj\Debug\lab3v1.pdb
-D:\cod\ООП\lab3\lab3v1\lab3v1\obj\Debug\lab3v1.exe.config
